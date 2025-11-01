@@ -1,1 +1,1 @@
-# Generate-a-slpah-screen-using-code-AI
+# Generate-a-splash-screen-using-code-AI
